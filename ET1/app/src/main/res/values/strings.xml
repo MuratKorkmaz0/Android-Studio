@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ET1</string>
+    <string name="ad">Adınız</string>
+    <string name="soyadınız">Soyadınız</string>
+</resources>
