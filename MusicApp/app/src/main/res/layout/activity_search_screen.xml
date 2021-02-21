@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/search_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/search_screen"
+    tools:context=".search_screen">
+
+
+    <EditText
+        android:id="@+id/search_text"
+        android:layout_width="328dp"
+        android:layout_height="51dp"
+        android:hint="@string/search_text"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="6dp" />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="96dp"
+        android:layout_height="149dp"
+        android:background="@drawable/search_btn"
+        tools:layout_editor_absoluteX="329dp"
+        tools:layout_editor_absoluteY="-41dp" />
+
+    <Button
+        android:id="@+id/library_btn"
+        android:layout_width="59dp"
+        android:layout_height="106dp"
+        android:background="@drawable/library_icon"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="651dp" />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="59dp"
+        android:layout_height="106dp"
+        android:background="@drawable/search_icon"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="651dp" />
+
+    <Button
+        android:id="@+id/profile_btn"
+        android:layout_width="59dp"
+        android:layout_height="106dp"
+        android:background="@drawable/profile_icone"
+        tools:layout_editor_absoluteX="342dp"
+        tools:layout_editor_absoluteY="635dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

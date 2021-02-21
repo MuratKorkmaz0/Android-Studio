@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Major</string>
+    <string name="user_name">Enter Name</string>
+    <string name="name_surname">Name and Surname</string>
+    <string name="e_mail">Enter E-mail</string>
+    <string name="user_password">Enter Password</string>
+    <string name="confirm_password">Enter Confirm Password</string>
+    <string name="search_text">Search</string>
+    <string name="search_btn">Search Buton</string>
+    <string name="login_btn">Login</string>
+    <string name="login_btn2">Login</string>
+    <string name="Register_btn">Register</string>
+    <string name="facebook_btn">Facebook</string>
+    <string name="title_activity_my_library">my_library</string>
+    <string name="library_btn">library</string>
+    <string name="search_button">search</string>
+    <string name="profile_btn">profile</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="login_screen2">login_layout</string>
+    <string name="register_layout">register_layout</string>
+    <string name="home_layout">home_layout</string>
+    <string name="main_layout">main_layout</string>
+    <string name="register_comp_layout">register_comp_layout</string>
+    <string name="search_layout">search_layout</string>
+
+
+
+</resources>
