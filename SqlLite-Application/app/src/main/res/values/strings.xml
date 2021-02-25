@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">16630110004_Murat_Korkmaz_MobilProgramlamaOdevi2020</string>
+    <string name="listv_Byz_e">Beyaz Eşya</string>
+    <string name="list_text">list Text</string>
+    <string name="table_household_appliansces">BeyazEşyalar</string>
+    <string name="BE_id">id</string>
+    <string name="BE_title">baslik</string>
+    <string name="BE_brand">marka</string>
+
+
+
+</resources>
