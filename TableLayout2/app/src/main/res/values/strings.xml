@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Enter_Password">Enter Password</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow>
+
+        <TextView
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Name :"
+            android:textSize="20sp"
+            android:textColor="@android:color/background_dark" />
+        <EditText
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/Enter_Name"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" * "
+            android:textSize="20sp"
+            android:textColor="@android:color/holo_red_dark" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password   :"
+            android:textSize="20sp"
+            android:textColor="@android:color/background_dark" />
+        <EditText
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/Enter_Password"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" * "
+            android:textSize="20sp"
+            android:textColor="@android:color/holo_red_dark" />
+
+
+    </TableRow>
+    <TableRow>
+        <Button
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Singİn"
+            android:background="@android:color/holo_orange_dark"
+            android:textColor="@android:color/white"
+            android:layout_span="4"
+            android:layout_marginLeft="@android:dimen/notification_large_icon_height"
+
+
+
+    </TableRow>
+
+    <TableRow>
+        <Button
+            android:layout_weight="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Singİn"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/white"
+            android:layout_span="4"
+            android:layout_marginLeft="@android:dimen/notification_large_icon_height"
+            android:layout_marginTop="@android:dimen/notification_large_icon_height"
+
+
+
+    </TableRow>
+
+
+</TableLayout>
