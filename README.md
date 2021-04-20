@@ -3,7 +3,10 @@
 #### Initially, I coded these studies to learn them myself. Maybe I wanted to share what I thought others could work for.
 
 
-![android](https://user-images.githubusercontent.com/59292099/115397765-1fefd880-a1ef-11eb-9006-d47d5389571b.png)
+
+![android-studio-kurulumu](https://user-images.githubusercontent.com/59292099/115403038-b377d800-a1f4-11eb-8759-15c15dc86289.jpg)
+
+
 
 
 
