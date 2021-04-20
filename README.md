@@ -1,26 +1,28 @@
-#Android Studio
+# Android Studio
 
-#Initially, I coded these studies to learn them myself. Maybe I wanted to share what I thought others could work for.
+#### Initially, I coded these studies to learn them myself. Maybe I wanted to share what I thought others could work for.
+
 
 ![android](https://user-images.githubusercontent.com/59292099/115397765-1fefd880-a1ef-11eb-9006-d47d5389571b.png)
 
 
-ET1 (Screen Design1)
-ET2 (Screen Design2)
-ET3 (Screen Design3)
 
-Ekran Tasarmı (Screen Design1)
+* ET1 (Screen Design1)
+* ET2 (Screen Design2)
+* ET3 (Screen Design3)
 
-KontrollereErisim (Access to Controls)
+* Ekran Tasarmı (Screen Design1)
 
-LinearLayout 1
-LinearLayout 2
+* KontrollereErisim (Access to Controls)
 
-MuApp- Android Music app. In-app designs are mine, there are no ready-made UI products.(The application is not ready to use.)
+* LinearLayout 1
+* LinearLayout 2
 
-SqlLite Application- The application that keeps the white goods brands in its database. The language of application is Turkish.
+### MuApp- Android Music app. In-app designs are mine, there are no ready-made UI products.(The application is not ready to use.)
 
-Table Layout
-Table Layout2 
+### SqlLite Application- The application that keeps the white goods brands in its database. The language of application is Turkish.
 
-//Good codings.
+* Table Layout
+* Table Layout2 
+
+### Good codings.
