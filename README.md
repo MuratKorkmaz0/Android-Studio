@@ -18,14 +18,14 @@
 
 * KontrollereErisim (Access to Controls)
 
-* LinearLayout 1
-* LinearLayout 2
+* Linear Layout1
+* Linear Layout2
 
 ### MuApp- Android Music app. In-app designs are mine, there are no ready-made UI products.(The application is not ready to use.)
 
 ### SqlLite Application- The application that keeps the white goods brands in its database. The language of application is Turkish.
 
-* Table Layout
+* Table Layout1
 * Table Layout2 
 
 ### Good codings.
